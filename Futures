@@ -1,6 +1,0 @@
-Futures for v0.1.5:
-  1. Transfer the created program to C++ (use MFC?) or C# (use Windows Forms?)
-  2. Make classes instead of crutches in the form of arrays of numbers
-  3. 
-  4. 
-  5. Create exe-file (first version for using by anybody)
